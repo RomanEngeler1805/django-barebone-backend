@@ -1,0 +1,7 @@
+django==4.2.2
+djangorestframework==3.14.0
+django_extensions==3.1.5
+
+aiohttp==3.8.4
+asyncio==3.4.3
+httpx==0.23.3
